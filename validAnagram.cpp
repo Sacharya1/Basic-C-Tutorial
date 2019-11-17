@@ -1,4 +1,4 @@
-//Question: https://leetcode.com/problems/valid-anagram/submissions/
+//Question: https://leetcode.com/problems/valid-anagram/
 
 
 using namespace std; 
